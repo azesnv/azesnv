@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 
-I'm a highly motivated and detail-oriented **QA Automation Engineer** with solid experience across all phases of the **Software Development Life Cycle (SDLC)**.
+QA Automation Engineer | Manual & Automated Testing Enthusiast | Passionate about Quality and Efficiency
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW8wcjZ6M3Vpd3JucXFqdTNuNHN0MnExNnoyY2l0YWp4N21pd3pmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
