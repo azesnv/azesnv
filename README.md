@@ -1,7 +1,7 @@
 Hi there, I'm Azady! 👋
-🎯 QA Automation Engineer | Manual & Automated Testing Enthusiast | Passionate about Quality and Efficiency
 
 💡 About Me
+
 I'm a highly motivated and detail-oriented QA Automation Engineer with solid experience across all phases of the Software Development Life Cycle (SDLC).
 
 I am:
@@ -26,6 +26,7 @@ Documentation	Confluence, MS Office, Google Drive
 Methodologies	Agile/SCRUM, Waterfall, Scaled Agile Framework (SAFe)
 Bug Tracking	Jira, Microsoft CRM, Confluence
 Version Control	GitHub, Git
+
 📚 What I Bring to the Team
 Strong experience with SDLC, STLC, and Defect Life Cycle 🔄
 
