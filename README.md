@@ -2,17 +2,17 @@ Hi there, I'm Azady! 👋
 
 💡 About Me
 
-I'm a highly motivated and detail-oriented QA Automation Engineer with solid experience across all phases of the Software Development Life Cycle (SDLC).
+I'm a highly motivated and detail-oriented QA Automation Engineer with solid experience across all phases of the Software Development Life Cycle (SDLC)
 
 I am:
 
-🧩 Skilled in Exploratory, GUI, Smoke, Usability, End-to-End, Functional, Regression, Localization, Load, and UAT testing.
+🧩 Skilled in Exploratory, GUI, Smoke, Usability, End-to-End, Functional, Regression, Localization, Load, and UAT testing
 
-🔎 Experienced in Web Services Testing and API Validation.
+🔎 Experienced in Web Services Testing and API Validation
 
-⚡ Responsible, well-organized, and able to work under pressure and tight deadlines.
+⚡ Responsible, well-organized, and able to work under pressure and tight deadlines
 
-🚀 A fast learner with a proactive, team-oriented mindset.
+🚀 A fast learner with a proactive, team-oriented mindset
 
 🛠️ My Technical Toolbox
 
@@ -30,8 +30,8 @@ Version Control	GitHub, Git
 📚 What I Bring to the Team
 Strong experience with SDLC, STLC, and Defect Life Cycle 🔄
 
-Expertise across multiple methodologies: Scrum, Waterfall, SAFe 🎯
+🎯 Expertise across multiple methodologies: Scrum, Waterfall, SAFe 
 
-A passion for quality, efficiency, and continuous improvement 💡
+💡 A passion for quality, efficiency, and continuous improvement 
 
 🌟 A positive, collaborative attitude 🤝
